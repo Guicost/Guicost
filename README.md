@@ -1,16 +1,14 @@
-## Hi there 👋
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,adonis,python,fastapi" />
+</p>
 
-<!--
-**Guicost/Guicost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
+</p>
