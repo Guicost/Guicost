@@ -11,4 +11,5 @@
 ## 🛠️ Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia" />
 </p>
