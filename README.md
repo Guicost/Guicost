@@ -10,5 +10,5 @@
 
 ## 🛠️ Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode, insomnia" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
 </p>
